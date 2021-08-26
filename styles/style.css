@@ -54,6 +54,7 @@
   font-weight: bold;
   margin: 0;
   padding: 0;
+  position: relative;
 }
 
 .table__text {
